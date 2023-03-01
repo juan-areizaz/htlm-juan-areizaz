@@ -3,28 +3,44 @@ h1 {
   font-size: 70px;
   text-align: center;
   background-color: red;
+  text-shadow: 10px 10px black;
 }
 #manuel {
-  color: yellow;
+  color: black;
   font-size: 50px;
   text-align: left;
-  background-color: rgb(195, 0, 255);
+  background-color: yellow;
 }
 #juan {
   color: rgb(21, 255, 0);
   font-size: 50px;
   text-align: center;
-  background-color: orange;
 }
 h3 {
-  color: rgb(0, 38, 255);
-  font-size: 20px;
-  text-align: center;
-  background-color: orange;
-}
-p {
-  color: rgb(7, 63, 3);
+  color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: right;
-  background-color: rgb(6, 255, 110);
+  background-color: rgb(0, 0, 0);
+}
+h4 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+h5 {
+  color: rgb(0, 58, 248);
+  font-size: 20px;
+  text-align: center;
+}
+h6 {
+  color: rgb(0, 58, 248);
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  text-align: center;
+  text-shadow: 10px 10px orange;
 }

@@ -1,98 +1,10 @@
-html {
-  font-family: "Montserrat", sans-serif;
-}
-
 body {
-  margin: 0;
-  background-color: #ffffff;
+  background-image: url("mar.jpg");
 }
-
-header h1 {
-  background-color: #a13939;
-  color: white;
-  padding: 3rem 2rem;
-  font-size: 3rem;
+h1 {
   text-align: center;
-  border-radius: 0.5rem;
+  front-size: 80px;
 }
-
-h2 {
-  font-size: 2.5rem;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
+h1 {
+  text-align: center;
 }
-
-h3 {
-  font-size: 2rem;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-h4 {
-  font-size: 1.5rem;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-h5 {
-  font-size: 1rem;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body p {
-  transition: all 0.3s ease;
-  background-color: #fff;
-  margin: 1rem 0;
-  border-radius: 0.5rem;
-  padding: 1rem 1rem;
-  cursor: pointer;
-  border: 1px solid #ccc;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-body p:hover {
-  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);
-}
-
-footer {
-  background-color: #222;
-  padding: 3rem;
-  color: white;
-  border-radius: 0.5rem;
-}
-
-footer p {
-  margin: 0;
-}
-
-footer a {
-  transition: color 0.3s ease;
-  color: white;
-  text-decoration: none;
-}
-
-footer a:hover {
-  color: cornflowerblue;
-}
-
-/* Go from zero to full opacity */
-@keyframes fadeEffect {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-#imagen {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(10%) drop-shadow(5px 5px rgb(0, 0, 0));

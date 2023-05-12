@@ -1,10 +1,12 @@
 body {
-  background-image: url("mar.jpg");
+  background-color: rgb(180, 4, 4);
 }
 h1 {
   text-align: center;
-  front-size: 80px;
+  font-size: 80px;
 }
-h1 {
-  text-align: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

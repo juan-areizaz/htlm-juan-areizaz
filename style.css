@@ -1,12 +1,7 @@
-body {
-  background-color: rgb(180, 4, 4);
+.imagen {
+  width: 100px;
+  height: 100px;
 }
-h1 {
-  text-align: center;
-  font-size: 80px;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.encabezado {
+  background-color: blue;
 }
